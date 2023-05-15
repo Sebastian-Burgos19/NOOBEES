@@ -8,7 +8,6 @@ import HoInfo from './components/HoInfo.vue';
 <template>
   <NavBar />
     <HoInfo />
-    <h1>hola</h1>
 
   <Footer />
  
