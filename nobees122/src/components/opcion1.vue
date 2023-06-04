@@ -1,12 +1,11 @@
 <template>
     <div>
-    <h1>Este es el componente {{ name }}</h1>
+    <h1>Este es el componente {{name}}</h1>
     </div>
    </template>
-   
    <script>
    export default {
-    name: '{{ name }}'
+    name: '{{name}}'
    };
    </script>
    <style>
